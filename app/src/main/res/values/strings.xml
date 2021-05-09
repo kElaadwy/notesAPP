@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">notes and tasks</string>
+    <string name="search_notes">Search notes</string>
+    <string name="plus_operator">+</string>
+    <string name="notes">notes</string>
+    <string name="tasks">tasks</string>
+    <string name="settings">settings</string>
+    <string name="search_tasks">search tasks</string>
+</resources>

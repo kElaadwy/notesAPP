@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ancient Rome</string>
+    <string name="score">الاهداف</string>
+    <string name="team_1">الفريق الاول</string>
+    <string name="team_2">الفريق الثاني</string>
+</resources>
